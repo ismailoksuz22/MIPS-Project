@@ -1,5 +1,5 @@
 # MIPS-Project
-Project for Marmara CSE 3038 - Computer Organization Course
+Assignment for Marmara CSE 3038 - Computer Organization Course
 
 Contains every question's solution separately.
 
